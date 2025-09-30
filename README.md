@@ -1,9 +1,9 @@
 cat > README.md << 'EOF'
-# 🚗 ZugaNest - Transportation & Services App
+# ZugaNest - Transportation & Services App
 
 A modern Flutter application for booking transportation and on-demand services with real-time tracking and secure payments.
 
-## ✨ Features
+##  Features
 - **User Authentication** - Secure login with Firebase Auth
 - **Service Booking** - Easy booking flow for transportation services  
 - **Real-time Updates** - Live tracking and status updates
