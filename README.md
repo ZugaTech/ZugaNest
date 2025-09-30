@@ -10,17 +10,14 @@ A modern Flutter application for booking transportation and on-demand services w
 - **Payment Integration** - Secure payment processing
 - **Profile Management** - User profiles and booking history
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Framework**: Flutter 3.16+
 - **Backend**: Firebase (Authentication, Firestore, Storage)
 - **State Management**: Provider
 - **Languages**: Dart, Kotlin, Swift
 - **Architecture**: MVC with Repository Pattern
 
-## 📸 Screenshots
-*(Add your app screenshots here after pushing)*
-
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Flutter SDK 3.16.0 or later
