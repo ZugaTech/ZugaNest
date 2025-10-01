@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ZugaNest - Transportation & Services App
 
 A modern Flutter application for booking transportation and on-demand services with real-time tracking and secure payments.
