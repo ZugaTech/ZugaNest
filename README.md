@@ -1,38 +1,34 @@
-# ZugaNest - Transportation & Services App
+# ZugaNest
 
-A modern Flutter application for booking transportation and on-demand services with real-time tracking and secure payments.
+Flutter app for booking transportation and on-demand services. Firebase backend, real-time tracking, and payment integration.
 
-##  Features
-- **User Authentication** - Secure login with Firebase Auth
-- **Service Booking** - Easy booking flow for transportation services  
-- **Real-time Updates** - Live tracking and status updates
-- **Payment Integration** - Secure payment processing
-- **Profile Management** - User profiles and booking history
+## Features
 
-##  Tech Stack
-- **Framework**: Flutter 3.16+
-- **Backend**: Firebase (Authentication, Firestore, Storage)
-- **State Management**: Provider
-- **Languages**: Dart, Kotlin, Swift
-- **Architecture**: MVC with Repository Pattern
+- Firebase Auth (login/signup)
+- Service booking flow
+- Real-time status updates via Firestore
+- Payment processing
+- User profiles and booking history
 
-##  Getting Started
+## Stack
 
-### Prerequisites
-- Flutter SDK 3.16.0 or later
-- Android Studio / VS Code with Flutter extension
-- Firebase project setup
+- Flutter 3.16+
+- Firebase (Auth, Firestore, Storage)
+- State Management: Provider
+- Dart / Kotlin / Swift
 
-### Installation
+## Getting started
+
+### Requirements
+
+- Flutter SDK 3.16.0+
+- Android Studio or VS Code with Flutter extension
+- Firebase project configured
+
+### Setup
+
 ```bash
-# Clone the repository
-git clone https://https://github.com/ZugaTech/ZugaNest.git
-
-# Navigate to project
-cd zuganest
-
-# Install dependencies
+git clone https://github.com/ZugaTech/ZugaNest.git
+cd ZugaNest
 flutter pub get
-
-# Run the app
 flutter run
